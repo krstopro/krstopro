@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an engineer and researcher with a broad set of interests.
+In my free time I enjoy activities like this.
+![alt text](https://github.com/krstopro/krstopro/blob/main/photo.jpeg?raw=true)
+
 <!--
 **krstopro/krstopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
