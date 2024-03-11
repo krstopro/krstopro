@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am an engineer and researcher with a broad set of interests.
+
 In my free time I enjoy activities like this.
 ![alt text](https://github.com/krstopro/krstopro/blob/main/photo.jpeg?raw=true)
 
